@@ -1,0 +1,1 @@
+location of blog images
