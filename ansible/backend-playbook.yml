@@ -1,0 +1,5 @@
+- name: Setup Blog Backend
+  hosts: backend
+  become: true
+  roles:
+    - backend
